@@ -7,6 +7,7 @@
         <h1>Nuxt Tailwind Template <span class="inline-block">w/ Pinia 🎉</span></h1>
       </div>
       <div class="col-span-5 md:col-span-3">
+        <scrollFrames />
         <CallToAction />
       </div>
       <div class="col-span-5 md:col-span-2">
@@ -18,6 +19,7 @@
         <div class="inline align-bottom">Visit on <nuxt-link to="https://github.com/michaelsynan/Nuxt-Tailwind-Template">GitHub</nuxt-link>.</div>
       </div>
     </div>
+
   </div>
 </template>
 
